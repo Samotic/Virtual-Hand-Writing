@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Downloadable MediaPipe model - see README for the fetch command.
+hand_landmarker.task
